@@ -19,5 +19,5 @@ services:
 
   result:
     image: "dockersamples/examplevotingapp_result:before"
-      ports:
-        - "5001:80"
+    ports:
+      - "5001:80"
